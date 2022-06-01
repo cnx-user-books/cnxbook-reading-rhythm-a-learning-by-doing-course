@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Reading Rhythm 8: Dotted Notes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63120</md:content-id>
+  <md:title>Reading Rhythm 8: Dotted Notes</md:title>
+  <md:abstract>In common notation, a dot immediately to the right of a note makes the note longer, adding an extra half of the note's original length.</md:abstract>
+  <md:uuid>a9a5c652-b6dc-4494-a7be-571fde55a846</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-768">This lesson is part of <link document="col12057">Reading Rhythm</link>, a <link document="m62540">learning by doing</link> course intended to help you learn and practice the rhythm aspect of common notation. The pitch aspect of common notation is not covered in this course, so it can be used with any instrument, including voice, or with no instrument at all (using, for example, hand claps instead). This is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="eip-854">Lessons 5 through 7 introduced a variety of ways to write complex rhythms. There is one more common way to write complex rhythms: <term>dotted notes</term> or <term>dotted rhythms</term>. A dot immediately to the right of a note means “<emphasis>add another half of the original length of the note</emphasis>”. For example, a dotted half note will be the length of a half-plus-a-quarter-note. A dotted quarter is the same length as a quarter-plus-an-eighth-note . You may be wondering “why not simply write a half note tied to a quarter note”? That is always an option, but the dotted note is easier to write, and once you become accustomed to it, also easier to read (see <link target-id="dotted-figure"/>). “Dotted rhythms” are very common in most styles of music, so you will likely get plenty of practice reading them. Like tied notes, they can be a little difficult to play correctly at first, because they usually involve starting the note after the dot on a weaker beat, or a weaker part of the beat.</para><figure id="dotted-figure"><title>Dotted Notes</title><media id="dotted" alt="Shows dotted whole equivalent to tied whole plus half note; dotted as equivalent to tied half plus quarter note; dotted quarter equivalent to tied quarter plus eighth note; and dotted eighth equivalent to eighth plus sixteenth note.">
+    <image mime-type="image/png" src="../../media/dotted.png"/>
+  </media>
+<caption>A dotted note sounds as long as the original note (i.e. without the dot) plus half of the length of the original note. Any dotted rhythm can also be written as two notes tied together, with the second note half the length of the first.
+  </caption>
+</figure>
+
+<para id="eip-445">Dotted rests are allowed, but are not as common as dotted notes; writing the separate rests (for example, a quarter rest followed by an eighth rest) is generally considered easier to read.</para><para id="eip-979">The suggested Activities in <link document="m62711">Lesson 5</link> involved only long tied notes (such as half and whole notes). Fast, complex rhythms involving shorter notes can be quite tricky to play accurately, and there are any number of complex rhythms that can be written using tied notes. There are a more limited number of possibilities with dotted notes, so it is worth practicing the most common ones, beginning with the slowest and easiest. </para><list id="eip-677" list-type="enumerated" number-style="arabic"><title>Activity 1: Read dotted half notes</title><item>Using any favorite <link document="m62591" target-id="eip-405">method of keeping a steady beat</link> and favorite <link document="m62591" target-id="eip-494">method of practicing rhythms</link>, try to read and play the examples in <link target-id="activity8-1-figure"/>.</item>
+<item>Practice each example more than once, then listen to the sound files to check whether you have played them correctly.</item>
+<item>If needed, try playing along with the sound file.</item></list><figure id="activity8-1-figure"><title>Practice Exercises: Dotted Half Notes</title><media id="activity8-1" alt="Two lines of mixed whole, half, quarter, eighth, and sixteenth notes and rests, with some of the half notes dotted.">
+    <image mime-type="image/png" src="../../media/activity8-1.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm8-1A-audio"><media id="rhythm8-1A" alt="Played on cymbals"> <audio mime-type="audio/mp3" src="rhythm8-1A.mp3"/> </media>  <caption>Activity 1 Line A (with only 3 preparation beats) (Audio examples in the text are provided <link document="m62590" target-id="eip-48">as mp3 files</link>. If you prefer wav files, those are provided <link target-id="rhythm8-1A-audio-w">below</link>.)</caption></figure><figure id="rhythm8-1B2-audio"> <media id="rhythm8-1B2" alt="Played on cymbals"> <audio mime-type="audio/mp3" src="rhythm8-1B2.mp3"/> </media> <caption>Activity 1 Line B with half-note beat</caption> </figure> 
+
+<figure id="rhythm8-1B4-audio"> <media id="rhythm8-1B4" alt="Played on cymbals"> <audio mime-type="audio/mp3" src="rhythm8-1B4.mp3"/> </media> <caption>Activity 1 Line B with quarter-note beat</caption> </figure>
+
+<list id="eip-324" list-type="enumerated" number-style="arabic"><title>Activity 2: Read dotted quarter notes</title><item>Using any favorite method of keeping the beat and practicing rhythms, try to read and play the examples in <link target-id="activity8-2-figure"/>.</item>
+<item>Practice each example more than once, then listen to the sound files to check whether you have played them correctly. Remember that 6/8 is a <link document="m63106" target-id="eip-840">compound meter</link>. Three eighth notes (or one dotted quarter note!) will equal one beat, so in this meter, dotted quarters are relatively easy to play correctly.</item>
+<item>If needed, try playing along with the sound file.</item></list><figure id="activity8-2-figure"><title>Practice Exercises: Dotted Quarter Notes</title><media id="activity8-2" alt="Two lines of mixed whole, half, quarter, eighth, and sixteenth notes and rests, with some of the quarter notes dotted.">
+    <image mime-type="image/png" src="../../media/activity8-1A.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm8-2A-audio"> <media id="rhythm8-2A" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm8-2A.mp3"/> </media> <caption>Activity 2 Line A</caption> </figure> 
+
+<figure id="rhythm8-2B-audio"> <media id="rhythm8-2B" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm8-2B.mp3"/> </media> <caption>Activity 2 Line B</caption> </figure> 
+
+<figure id="rhythm8-2C-audio"><media id="rhythm8-2C" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm8-2C2.mp3"/> </media>  <caption>Activity 2 Line C (compound meter!)</caption></figure>
+
+<list id="eip-725" list-type="enumerated" number-style="arabic"><title>Activity 3: Read dotted eighth notes</title><item>Using any favorite method of keeping the beat and practicing rhythms, try to read and play the examples in <link target-id="activity8-3-figure"/>.</item>
+<item>Practice each example more than once, then listen to the sound files to check whether you have played them correctly.</item>
+<item>If needed, try playing along with the sound file.</item></list><figure id="activity8-3-figure"><title>Practice Exercises: Dotted Eighth Notes</title><media id="activity8-3" alt="Two lines of mixed whole, half, quarter, eighth, and sixteenth notes and rests, with some of the eighth notes dotted.">
+    <image mime-type="image/png" src="../../media/activity8-3A.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm8-3A-audio"> <media id="rhythm8-3A" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm8-3A.mp3"/> </media> <caption>Activity 3 Line A</caption> </figure> 
+
+<figure id="rhythm8-3B-audio"><media id="rhythm8-3B" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm8-3B3.mp3"/> </media>  <caption>Activity 3 Line B (with 3 preparation beats)</caption></figure>
+
+<figure id="rhythm8-3C-audio"><media id="rhythm8-3C" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm8-3C.mp3"/> </media>  <caption>Activity 3 Line C (compound meter!)</caption></figure>
+
+<list id="eip-881" list-type="enumerated" number-style="arabic"><title>Activity 4: Write dotted rhythms </title><item>Use your preferred <link document="m62677" target-id="eip-782">methods of writing down music</link>, setting up a steady beat, and playing what you have written.</item>
+<item>Try writing down your own lines that include dotted notes. Dotted notes can be create complex, difficult-to-play rhythms, so keep your first attempts reasonably simple. Feel free to favor the dotted rhythms that you like or find easy to play, and leave out any that are not yet comfortable. If needed, use the exercises that you found relatively easy to play as templates, making only small alterations to create a new line.</item>
+<item>Try playing what you have written. Feel free to make changes as needed to create rhythms that you like and can play</item>
+<item>As you did with the <link document="m62677" target-id="eip-782">writing activity in Lesson 2</link>, practice and check until you are certain that you are playing your written rhythms correctly.</item></list><para id="eip-875">Sometimes a rhythm that sounds like a dotted rhythm will be written with the appropriate rest instead of a dot. As always, the point of using a rest is to have silence rather than a note during that time in the rhythm. You may also encounter eighth rests and sixteenth rests in other complex rhythms.</para><figure id="eighth-rest-figure"><title>Eighth Rests and Sixteenth Rests</title><media id="eighth-rest" alt="Images of eighth rest and sixteenth rest, with two staves showing similar rhythms written using dotted notes on one staff and notes with rests (instead of dots) in between them on the other.">
+    <image mime-type="image/png" src="../../media/eighth-rest.png"/>
+  </media>
+  
+<caption>A rhythm that sounds very similar to a dotted rhythm may be written with the appropriate rest instead of with tied or dotted notes. Note that the only difference between the rhythms of the two lines is that there will be short silences in the second line that last as long as the dots last in the first line.
+  </caption></figure>
+
+<para id="eip-71">Occasionally a rhythm will be written with two dots following the same note. (More dots are allowed theoretically, but I have never seen more than two following the same note.) The second dot adds half the length of the first dot. For example, a half note followed by two dots would be the length of a half-plus-a-quarter-plus-an-eighth-note. <term>Double dotted</term> notes create unusual rhythms that are difficult to play accurately, so there are no activities for practicing them in this course. </para><figure id="double-dotted-figure"><title>Double-dotted Rhythms</title><media id="double-dotted" alt="On a staff, double-dotted half shown as equivalent to half plus quarter plus eighth notes, tied together; and double-dotted quarter shown as equivalent to quarter plus eighth plus sixteenth notes.">
+    <image mime-type="image/png" src="../../media/double-dotted.png"/>
+  </media>
+  
+<caption>The second dot adds half of the length added by the first dot. Technically, more dots could be added following the same pattern, but such rhythms are very rare and difficult to perform accurately.
+  </caption></figure>
+
+<para id="eip-542">This course has been a short introduction to the basics of reading rhythms. Obviously, there are many possible rhythms that you have not yet practiced in any of the suggested activities. There is no way to cover all of the possibilities; the tremendous variety of possible rhythms are one of the things that keeps music interesting. However, <emphasis>you have seen the rules that govern nearly all rhythms written in common notation</emphasis>. As you read and practice more pieces, you will also become better at quickly reading and learning rhythms that you have not seen before. Whenever you are confronted with a tricky new rhythm, there are several things you can do to figure it out: </para><list id="eip-579"><item>Slow the music down and play it with beats that happen more often, using steps similar to those in <link document="m63105" target-id="eip-761">Activity 4 of Lesson 6</link>.</item>
+<item>Listen to a recording of the piece. Note that <emphasis>this only works when you are certain that the recording and your written music agree on the rhythm</emphasis>. This will usually be the case for some genres (such as classical music), but other genres (such as pop music) have a tendency to simplify the written music. In these genres, you cannot count on the written rhythm being the same as the rhythm performed in a recording.</item>
+<item>Ask for help from a music teacher or musician who is well trained in reading common notation.</item></list><list id="eip-466"><title>Suggestions for practice with "real music":</title><item>When you listen to favorite pieces of music, listen for rhythms that are similar to the dotted rhythms you practiced in the activities above.</item>
+<item>If you have any written music for your instrument that includes dotted notes, practice reading that music.</item>
+<item>If you are singing in a choir with a conductor and with written music, start noticing any dotted notes in the music.</item>
+<item>Look for rhythms in your written music that are not the same as the ones you have already practiced in these lessons, but that have similar elements (different variations of ties, dots, unfamiliar time signatures, and so on). For each “new” rhythm you find, use the suggestions above to try to determine how to play it. Use the steps you have learned in this course to check carefully that you are playing it correctly. Then practice the rhythm until it is familiar and look for other instances of that same rhythm in your music.</item></list>
+
+<figure id="rhythm8-1A-audio-w"><media id="rhythm8-1A-w" alt="Played on cymbals"> <audio mime-type="audio/x-wav" src="rhythm8-1A.wav"/> </media>  <caption>Activity 1 Line A (with only 3 preparation beats)</caption></figure>
+
+<figure id="rhythm8-1B2-audio-w"> <media id="rhythm8-1B2-w" alt="Played on cymbals"> <audio mime-type="audio/x-wav" src="rhythm8-1B2.wav"/> </media> <caption>Activity 1 Line B with half-note beat</caption> </figure> 
+
+<figure id="rhythm8-1B4-audio-w"> <media id="rhythm8-1B4-w" alt="Played on cymbals"> <audio mime-type="audio/x-wav" src="rhythm8-1B4.wav"/> </media> <caption>Activity 1 Line B with quarter-note beat</caption> </figure>
+
+<figure id="rhythm8-2A-audio-w"> <media id="rhythm8-2A-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm8-2A.wav"/> </media> <caption>Activity 2 Line A</caption> </figure> 
+
+<figure id="rhythm8-2B-audio-w"> <media id="rhythm8-2B-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm8-2B.wav"/> </media> <caption>Activity 2 Line B</caption> </figure> 
+
+<figure id="rhythm8-2C-audio-w"><media id="rhythm8-2C-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm8-2C2.wav"/> </media>  <caption>Activity 2 Line C (compound meter!)</caption></figure>
+
+<figure id="rhythm8-3A-audio-w"> <media id="rhythm8-3A-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm8-3A.wav"/> </media> <caption>Activity 3 Line A</caption> </figure> 
+
+<figure id="rhythm8-3B-audio-w"><media id="rhythm8-3B-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm8-3B3.wav"/> </media>  <caption>Activity 3 Line B (with 3 preparation beats)</caption></figure>
+
+<figure id="rhythm8-3C-audio-w"><media id="rhythm8-3C-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm8-3C.wav"/> </media>  <caption>Activity 3 Line C (compound meter!)</caption></figure>
+
+</content>
+
+</document>

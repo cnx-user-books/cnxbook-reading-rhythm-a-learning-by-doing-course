@@ -1,0 +1,121 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Reading Rhythm 6: Using Different Notes for the Beat</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63105</md:content-id>
+  <md:title>Reading Rhythm 6: Using Different Notes for the Beat</md:title>
+  <md:abstract>When the time signature indicates the meter of a piece of music, that includes defining which type of note lasts for one beat. Although the most common meters use the quarter note, any note can be defined as being the note that is one beat long. Half-note beats and eighth-note beats are both fairly common.</md:abstract>
+  <md:uuid>cd8c4607-e813-4e7f-b5e1-29a8631bc3c3</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-648">This lesson is part of <link document="col12057">Reading Rhythm</link>, a <link document="m62540">learning by doing</link> course intended to help you learn and practice the rhythm aspect of common notation. The pitch aspect of common notation is not covered in this course, so it can be used with any instrument, including voice, or with no instrument at all (using, for example, hand claps instead). This is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="eip-200">As discussed in <link document="m62591">Lesson 1</link>, any type of note can last for one beat. Up to this point, all of the activities in these lessons have used meters in which a quarter note is the "one beat long" note. These meters include 4/4, 3/4/, and 2/4, which together account for a very large proportion of music written in common notation. However, meters in which either a half note or an eighth note is the "one beat long" note are also reasonably common. <emphasis>The bottom number in the time signature indicates which type of note gets one beat</emphasis>. (The top note still indicates the number of beats in the measure, as in earlier lessons.) This lesson provides practice with these types of meters and also demonstrates how you can use them to figure out and practice rhythms that are unfamiliar or challenging.</para><section id="eip-76"><title>Meters that use half-note or eighth-note beats</title>
+
+<figure id="half-note-beat-figure"><media id="half-note-beat" alt="Three staves, indicating that 2/2 time is equivalent to 4/4 and 8/8 time">
+    <image mime-type="image/png" src="../../media/half-note-beat.png"/>
+  </media>
+  
+<caption>The bottom number in the time signature indicates what type of note lasts for one beat. The same piece can be written with an eighth note getting one beat, or a quarter note, or a half note. If these are played at the same tempo (same number of beats per minute), then 4/4 time would be twice as fast as 2/2 time. But if the tempo of the 4/4 time is twice as fast (twice as many beats per minute) as the 2/2 time, then they would sound exactly the same. (For examples, see the audio files associated with <link target-id="activity7-1-figure"/> below.)
+  </caption></figure><para id="eip-513">Which time signature to use is a decision made by the person who writes the music (the composer, arranger, or transcriber). The decision is usually made based on genre traditions, as well as on what the writer believes is most intuitive, easiest to read, and most suggestive of the underlying pulse of the music. For the person reading the music, the most important thing to understand is that the decision does not affect the sound of the music. <emphasis>It is the <link document="m62591" target-id="eip-260">tempo</link> that actually determines the speed of the piece, not the type of note that is given one beat.</emphasis> Tempo can be suggested by the writer, but the performer actually decides the tempo. A piece can be written with an eighth note getting one beat, or a quarter note, or a half note. A measure of 2/2 can have the same rhythms as a measure of 4/4 or a measure of 8/8, and the meters of these time signatures are so similar that they can be impossible to distinguish by ear.</para><list id="eip-404" list-type="enumerated" number-style="arabic"><title>Activity 1: Practice reading with half-note beats</title><item>Using any favorite <link document="m62591" target-id="eip-405">method of keeping a steady beat</link> and <link document="m62591" target-id="eip-494">method of practicing rhythms</link>, try to read and play the examples in <link target-id="activity7-1-figure"/>.</item>
+<item>If you are having trouble reading the lines as written, imagine that they are written in the equivalent quarter-note-beat meter. (For example, imagine that 2/2 is written as 4/4 and 3/2 is written as 6/4). When you can play a line in a fast quarter-note-beat meter, play the line again at exactly the same speed, but with the beat at half the speed.</item>
+<item>Practice each example more than once using the indicated meter, then listen to the sound files to check whether you have played them correctly.</item>
+<item>If needed, try playing along with the sound files.</item></list><figure id="activity7-1-figure"><title>Practice Examples: Half-Note Beats</title><media id="activity7-1" alt="Three lines of mixed whole, half, and quarter notes and rests: two in 2/2 time and one in 3/2 time.">
+    <image mime-type="image/png" src="../../media/activity7-1.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm6-1A2-audio"><media id="rhythm6-1A2" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-1A2.mp3"/> </media>  <caption>Activity 1 Line A with half-note beat (Audio examples in the text are provided <link document="m62590" target-id="eip-48">as mp3 files</link>. If you prefer wav files, those are provided <link target-id="rhythm6-1A2-audio-w">below</link>.)</caption></figure><figure id="rhythm6-1A4-audio"><media id="rhythm6-1A4" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-1A4.mp3"/> </media>  <caption>Activity 1 Line A with quarter-note beat</caption></figure>
+
+<figure id="rhythm6-1B4-audio"><media id="rhythm6-1B4" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-1B2.mp3"/> </media>  <caption>Activity 1 Line B with half-note beat</caption></figure><figure id="rhythm6-1B2-audio"><media id="rhythm6-1B2" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-1B4.mp3"/> </media>  <caption>Activity 1 Line B with quarter-note beat</caption></figure><figure id="rhythm6-1C3-audio"><media id="rhythm6-1C3" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-1C3.mp3"/> </media>  <caption>Activity 1 Line C with half-note beat (with 3 preparation beats)</caption></figure>
+
+<figure id="rhythm6-1C6-audio"><media id="rhythm6-1C6" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-1C6.mp3"/> </media>  <caption>Activity 1 Line C with quarter-note beat (with 6 preparation beats)</caption></figure>
+
+<list id="eip-396" list-type="enumerated" number-style="arabic"><title>Activity 2: Practice reading with eighth-note beats</title><item>Using any favorite method of keeping the beat and practicing rhythms, try to read and play the examples in <link target-id="activity7-2-figure"/>.</item>
+<item>If you are having trouble reading the lines as written, imagine that they are written in the equivalent quarter-note-beat meter. For example, imagine that 4/8 is written as 2/4 and 2/8 is written as 1/4 (an unusual meter, but technically allowed). When you can play a line in a slow quarter-note-beat meter, play the line again at exactly the same speed, but with the beat at twice the speed.</item>
+<item>Practice each example more than once using the indicated meter, then listen to the sound files to check whether you have played them correctly.</item>
+<item>If needed, try playing along with the sound files.</item></list><figure id="activity7-2-figure"><title>Practice Examples: Eighth-Note Beats</title><media id="activity7-2" alt="Three lines of mixed half and quarter notes and rests, and eighth notes: two in 4/8 time, and one in 2/8 time.">
+    <image mime-type="image/png" src="../../media/activity7-2.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm6-2A4-audio"><media id="rhythm6-2A4" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-2A4.mp3"/> </media>  <caption>Activity 2 Line A with eighth-note beat</caption></figure>
+
+<figure id="rhythm6-2A2-audio"><media id="rhythm6-2A2" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-2A2.mp3"/> </media>  <caption>Activity 2 Line A with quarter-note beat</caption></figure>
+
+<figure id="rhythm6-2B4-audio"><media id="rhythm6-2B4" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-2B4.mp3"/> </media>  <caption>Activity 2 Line B with eighth-note beat</caption></figure>
+
+<figure id="rhythm6-2B2-audio"><media id="rhythm6-2B2" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-2B2.mp3"/> </media>  <caption>Activity 2 Line B with quarter-note beat</caption></figure>
+
+<figure id="rhythm6-2C2-audio"><media id="rhythm6-2C2" alt=" Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-2C2.mp3"/> </media>  <caption>Activity 2 Line C with eighth-note beat</caption></figure>
+
+<figure id="rhythm6-2C1-audio"><media id="rhythm6-2C1" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-2C1.mp3"/> </media>  <caption>Activity 2 Line C with quarter-note beat</caption></figure>
+
+<list id="eip-362" list-type="enumerated" number-style="arabic"><title>Activity 3: Practice writing eighth-note or half-note beats</title><item>Use your preferred <link document="m62677" target-id="eip-782">methods of writing down music</link>, setting up a steady beat, and playing what you have written.</item>
+<item>Try writing down your own lines with either eighth-note or half-note time signatures. You may find that you can use lines that you have written for previous lessons and simply change the time signature.</item>
+<item>Try playing what you have written. Feel free to make changes as needed to create rhythms that you like and that you believe fit nicely into the time signature you have used.</item>
+<item>As you did with the <link document="m62677" target-id="eip-782">writing activity in Lesson 2</link>, practice and check until you are certain that you are playing your written rhythms correctly.</item></list>
+
+<para id="eip-613">The 2/2 time signature is probably the most common meter that does not use a quarter-note beat. Like <term>common time</term> (4/4) time], it has a short-cut symbol that represents it, which is called <term>cut time</term> (2/2 time) and looks like a common-time marking "cut" in half with a vertical line.</para><figure id="common-cut-figure"><media id="common-and-cut" alt="Four staves with time signatures, indicating that a C in the time signature position is equivalent to 4/4 time and a C with a vertical line through it in the time signature position is equivalent to 2/2 time.">
+    <image mime-type="image/png" src="../../media/common-and-cut.png"/>
+  </media>
+</figure>
+
+</section>
+<section id="eip-77"><title>Changing the beat in order to read and practice difficult rhythms</title>
+
+<para id="eip-249">One instance when it can be useful to give an eighth note the beat is when the music includes notes that are even shorter than eighth notes. By adding more flags or beams, you can continue to divide note lengths in half to get ever shorter notes. Half of an eighth note is a <term>sixteenth note</term>, half of a sixteenth note is a <term>thirty-second note</term>, and so on. (Thirty-second notes are rare, and anything shorter very rare.) </para>
+
+<figure id="sixteenth-notes-figure">
+  <media id="sixteenth-notes" alt="Sixteenth notes, stem up and down, with flags and with beams, and thirty-second and sixty-fourth notes with beams">
+    <image mime-type="image/png" src="../../media/sixteenth-notes.png"/>
+  </media>
+</figure>
+
+<para id="eip-49">When a quarter note gets one beat, there are four sixteenth notes (or eight thirty-second notes) in one beat, which can be quite challenging to play correctly (see the examples in <link target-id="eights-sixteenths-figure"/>). You may already have come across other rhythms in these lessons (or in real music) that you have found difficult to play correctly, or even difficult to decide how they are supposed to sound. If it has not happened yet, it is likely to happen at some point as you read increasingly challenging music. When it happen, you may find it useful to slow the music down, to give you time to think about or to play the rhythm correctly. However, very slow beats are difficult to keep steady, so rather than keep a very slow quarter-note beat (for example), it can be very useful to “pretend” that the meter is has an eighth-note beat, for practice purposes (see <link target-id="activity7-3-figure"/>). In music, just as in mathematics, 2/2 and 4/4 and 8/8 are all completely equivalent; they are only written differently because in some circumstances it is more useful to divide the whole into eighths rather than into quarters or halves.</para>
+
+<figure id="eights-sixteenths-figure"><title>Reading Complex Rhythms</title><media id="eights-sixteenths" alt="Eighth notes and sixteenth notes beamed together to equal one quarter note">
+    <image mime-type="image/png" src="../../media/eights-sixteenths.png"/>
+  </media>
+  
+<caption>One way that the person writing the music helps readers is by grouping notes by beat (most commonly the quarter-note beat). When a single beat contains a mixture of notes, they are typically beamed together so that the reader can see at a glance that they must all be played in the course of a single beat. When this is the case, play each note according to the highest number of beams touching the stem.
+  </caption></figure>
+
+<list id="eip-761" list-type="enumerated" number-style="arabic"><title>Activity 4: Use eighth-note beats to practice playing sixteenth notes</title><item>Choose a favorite, easy method of making sounds.</item>
+<item>Use a favorite method to set up a relatively fast-paced steady beat. This will be your eighth-note-gets-one-beat tempo.</item>
+<item>First practice the examples in <link target-id="activity7-3-figure"/> that use eighth note beats (examples A, C, and E). Notice that when an eighth note gets a beat, there are only two sixteenth notes in a beat. In other words, in eighth-note-beat meters, sixteenth notes will feel just like eighth notes in quarter-note-beat time signatures, which should make them feel familiar and easy to play correctly.
+</item>
+<item>Check the audio files to make sure you are playing them correctly.</item>
+<item>Once you are playing a line correctly in the eighth-note-beat meter, switch to playing the version of the same line that is written in the quarter-note-beat time signature. Notice that sixteenth notes now must be played four-to-a-beat. At first, practice with the beat at half speed, so that it sounds exactly the same as the eighth-note-beat version.
+</item>
+<item>If possible, speed up the quarter-note tempo so that you are playing the sixteenth notes very quickly. Challenge yourself to see how quickly you can play them accurately and evenly. Can you speed up the tempo even more by switching to a different method of “playing” (for example, singing syllables, or tapping on a table with alternating hands, rather than clapping hands)?</item></list>
+
+<figure id="activity7-3-figure"><title>Practice Examples: Switching Beats</title><media id="activity7-3" alt="Description...">
+    <image mime-type="image/png" src="../../media/activity7-3.png"/>
+  </media>
+<caption>Every flag or beam that is added to the stem of a note cuts its time length in half again. For example, notes with two flags or beams are sixteenth notes, which last half as long as eighth notes. Notes with three flags or beams are thirty-second notes, which last half as long as sixteenth notes.</caption></figure>
+
+<figure id="rhythm6-3A-audio"><media id="rhythm6-3A" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-3A.mp3"/> </media>  <caption>Activity 4 Line A</caption></figure>
+
+<figure id="rhythm6-3B-audio"><media id="rhythm6-3B" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-3B.mp3"/> </media>  <caption>Activity 4 Line B</caption></figure>
+
+<figure id="rhythm6-3C-audio"><media id="rhythm6-3C" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-3C.mp3"/> </media>  <caption>Activity 4 Line C </caption></figure>
+
+<figure id="rhythm6-3D-audio"><media id="rhythm6-3D" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-3D.mp3"/> </media>  <caption>Activity 4 Line D</caption></figure>
+
+<figure id="rhythm6-3E-audio"><media id="rhythm6-3E" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-3E.mp3"/> </media>  <caption>Activity 4 Line E</caption></figure>
+
+<figure id="rhythm6-3F-audio"><media id="rhythm6-3F" alt="Played with cymbal crashes"> <audio mime-type="audio/mp3" src="rhythm6-3F.mp3"/> </media>  <caption>Activity 4 Line F </caption></figure>
+
+<list id="eip-377"><title>Suggestions for practice with "real music":</title><item>When you listen to favorite pieces of music, listen for very fast notes in the rhythm. Notice that this means you are listening for notes that are very quickly followed by other notes. This is not the same as notes that are short simply for the effect, with plenty of time after them in the rhythm. Are any note rhythms quick enough that at least four of them could fit in one beat? Which instruments play the quick rhythms?</item>
+<item>If you have any written music for your instrument that includes sixteenth notes, see whether you can play it by reading the music. 
+</item>
+<item>For now, continue to avoid music in which the rhythms use dots, but if you have come across other rhythms that you find challenging, try using a slower meter to figure them out and practice them.</item>
+<item>If you have any music written with a half-note-beat meter, including "cut time," or with an eighth-note-beat meter, try playing it. (Note that 3/8 and 6/8 music does not translate well to any quarter-note-beat meter, so practice these meters ONLY with an eighth-note beat. This will be discussed in the next lesson.)</item>
+<item>If you are singing in a choir with a conductor and with written music, start noticing any sixteenth notes in the music. Also notice any examples of pieces that use a note other than the quarter note for a beat. What tempo does the conductor choose for these pieces, and how does the meter seem to affect the conducting pattern?</item></list>
+
+
+</section>
+
+<figure id="rhythm6-1A2-audio-w"><media id="rhythm6-1A2-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-1A2.wav"/> </media>  <caption>Activity 1 Line A with half-note beat</caption></figure><figure id="rhythm6-1A4-audio-w"><media id="rhythm6-1A4-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-1A4.wav"/> </media>  <caption>Activity 1 Line A with quarter-note beat</caption></figure><figure id="rhythm6-1B4-audio-w"><media id="rhythm6-1B4-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-1B2.wav"/> </media>  <caption>Activity 1 Line B with half-note beat</caption></figure><figure id="rhythm6-1B2-audio-w"><media id="rhythm6-1B2-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-1B4.wav"/> </media>  <caption>Activity 1 Line B with quarter-note beat</caption></figure><figure id="rhythm6-1C3-audio-w"><media id="rhythm6-1C3-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-1C3.wav"/> </media>  <caption>Activity 1 Line C with half-note beat (with 3 preparation beats)</caption></figure><figure id="rhythm6-1C6-audio-w"><media id="rhythm6-1C6-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-1C6.wav"/> </media>  <caption>Activity 1 Line C with quarter-note beat (with 6 preparation beats)</caption></figure><figure id="rhythm6-2A4-audio-w"><media id="rhythm6-2A4-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-2A4.wav"/> </media>  <caption>Activity 2 Line A with eighth-note beat</caption></figure><figure id="rhythm6-2A2-audio-w"><media id="rhythm6-2A2-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-2A2.wav"/> </media>  <caption>Activity 2 Line A with quarter-note beat</caption></figure><figure id="rhythm6-2B4-audio-w"><media id="rhythm6-2B4-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-2B4.wav"/> </media>  <caption>Activity 2 Line B with eighth-note beat</caption></figure><figure id="rhythm6-2B2-audio-w"><media id="rhythm6-2B2-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-2B2.wav"/> </media>  <caption>Activity 2 Line B with quarter-note beat</caption></figure><figure id="rhythm6-2C2-audio-w"><media id="rhythm6-2C2-w" alt=" Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-2C2.wav"/> </media>  <caption>Activity 2 Line C with eighth-note beat</caption></figure><figure id="rhythm6-2C1-audio-w"><media id="rhythm6-2C1-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-2C1.wav"/> </media>  <caption>Activity 2 Line C with quarter-note beat</caption></figure><figure id="rhythm6-3A-audio-w"><media id="rhythm6-3A-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-3A.wav"/> </media>  <caption>Activity 3 Line A</caption></figure><figure id="rhythm6-3B-audio-w"><media id="rhythm6-3B-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-3B.wav"/> </media>  <caption>Activity 4 Line B</caption></figure><figure id="rhythm6-3C-audio-w"><media id="rhythm6-3C-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-3C.wav"/> </media>  <caption>Activity 4 Line C </caption></figure><figure id="rhythm6-3D-audio-w"><media id="rhythm6-3D-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-3D.wav"/> </media>  <caption>Activity 4 Line D</caption></figure><figure id="rhythm6-3E-audio-w"><media id="rhythm6-3E-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-3E.wav"/> </media>  <caption>Activity 4 Line E</caption></figure><figure id="rhythm6-3F-audio-w"><media id="rhythm6-3F-w" alt="Played with cymbal crashes"> <audio mime-type="audio/x-wav" src="rhythm6-3F.wav"/> </media>  <caption>Activity 4 Line F </caption></figure></content>
+
+</document>

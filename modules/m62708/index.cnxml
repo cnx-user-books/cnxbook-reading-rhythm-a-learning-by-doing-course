@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Reading Rhythm 4: Dividing the beat in half</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62708</md:content-id>
+  <md:title>Reading Rhythm 4: Dividing the beat in half</md:title>
+  <md:abstract>Beats are often subdivided into two parts. Both have the same time length, but the first part is emphasized to keep the feeling of the beat. In the most common meters, each eighth note or eighth rest lasts for one half beat.</md:abstract>
+  <md:uuid>5dba58ba-f907-4614-9ab5-f8986af6cbe7</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-824">This lesson is part of <link document="col12057">Reading Rhythm</link>, a <link document="m62540">learning by doing</link> course intended to help you learn and practice the rhythm aspect of common notation. The pitch aspect of common notation is not covered in this course, so it can be used with any instrument, including voice, or with no instrument at all (using, for example, hand claps instead). This is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="eip-405">You may have already noticed when you listen to music that many of the sounds do not happen on the beat. In this lesson, you will begin practicing notes that begin exactly half-way in between two beats.</para>
+
+<para id="eip-596">As discussed in <link document="m62591">Lesson 1</link>, any type of note can get one beat. The length of all other notes in a piece just depends on their relationship to the one-beat note. For example, if a quarter note gets one beat, a half note must get two beats, because a half equals two quarters. But if a half note gets one beat, then a quarter note would only get half a beat, because a quarter equals half of a half. In other words, when a half note gets one beat, then a steady stream of quarter notes would mean that half of the notes begin on a beat and the other half begin exactly half-way between beats.</para><section id="eip-578"><title>What do sub-divided beats sound like?</title>
+
+<para id="eip-423">
+When you subdivide a beat into two parts, the time length of each of the parts is equal. The goal is to begin the second note at the half-way point of the beat, in other words, when you are exactly half-way to the next downbeat. This is easier than it sounds, once you get a feel for it; the divided-in-half beats create an even, steady patter that is twice as fast as the actual beat. You can practice hearing and feeling what this is like in Activity 1.
+</para>
+
+<figure id="eighths-audio"><media id="eighths" alt="Four preparatory beats, then 8 beats of eighth notes with clave sound."> <audio mime-type="audio/mp3" src="eighths.mp3"/> </media>  <caption>The beat is divided into two notes of equal length. (Audio examples in text are provided <link document="m62590" target-id="eip-48">as mp3 files</link>. If you prefer wav files, those are provided <link target-id="eighths-audio-w">below</link>.)</caption></figure><list id="eip-393" list-type="enumerated" number-style="arabic"><title>Activity 1: Beats divided into two parts</title><item>Choose any favorite, easy <link document="m62591" target-id="eip-494">method of practicing rhythms</link> and a <link document="m62591" target-id="eip-405">favorite method</link> to set up a <emphasis>relatively slow</emphasis> steady beat.</item>
+<item>Play along with the beat, making sounds on every beat and also at the half-way point in between every beat. The result should sound like a steady beat that is twice as fast as the set-up beat. In fact, the result should sound very much like a very fast duple meter.</item>
+<item>Choose a "stronger" and "weaker" sound as you did in <link document="m62677">Lesson 2</link>. Use the heavier sound for the “on the beat” sound, and the lighter sound for the off-the-beat sounds. Again, practice until you can keep a steady, even patter with the two different sounds.</item></list><list id="eip-975" list-type="enumerated" number-style="arabic"><title>Activity 2: Divided and undivided beats</title><item>Again choose a favorite easy method of making sounds and a relatively slow beat to practice with. </item>
+<item>Practice going back and forth between dividing the beats and not dividing them. Start by subdividing the beats as you were in Activity 1.</item>
+<item>When you have settled comfortably into a very even divided pattern, then switch, without stopping, to simply playing “on the beat” only. </item>
+<item>When you have settled into the on-the-beat-only pattern, then switch, without stopping, to subdividing again. </item>
+<item>Again, when you have settled into a very even divided pattern, then switch back again to playing only on the beat. Practice switching back and forth until you can make the switch smoothly.</item></list>
+
+<list id="eip-729" list-type="enumerated" number-style="arabic"><title>Activity 3: More Complex Rhythms</title><item>Once you can do Activity 2 smoothly, practice making the switching time shorter. Can you switch between divided and undivided every three beats? Every two beats? Every other beat?</item>
+<item>Create some more complex patterns that you like – for example, one divided beat for every two undivided beats – and practice these patterns. </item>
+<item>For a challenge, you can add to the complexity of your pattern by including a rest or a <link document="m62678">half note</link> in the rhythm. For example, play one subdivided beat, two non-subdivided beats, and then do not play, or hold the previous sound, for one beat. (See the <link target-id="activity4-4-figure">examples below</link> if needed.)</item>
+<item>If you are practicing with a group, you can take turns creating rhythms that include beats, divided beats, and rests. Each person in turn can create and demonstrate a rhythm, to be echoed by everyone else. "Followers" can check to make certain that the leader's rhythm includes only sounds or silences that last two beats, one beat, or one-half beat.</item></list></section>
+<section id="eip-257"><title>What do divided beats look like?</title>
+
+<para id="eip-959">Remember that any note can equal one beat, so any note can also be a divided part of a beat, too. For the moment, however, we will keep things simple by continuing to assume that a quarter note gets a beat and a half note gets two beats. Basic math will show you that whenever this is the case, an <emphasis>eighth note</emphasis> must get one half of a beat. In other words, two eighth notes in a row means “divide a beat between two equal notes.” An eighth note can look like a quarter note with one <term>flag</term> attached to the stem, or it can look like an eighth note that is attached to other notes with one <term>beam</term>.  <emphasis>Although there are two ways to write eighth notes, they sound the same</emphasis> rhythmically. Music writers generally use whichever way will make the music easiest to read. For example, when two eighth notes in a row mean “play a subdivided beat," they are usually connected by a beam. This makes it easy for the reader to quickly recognize that the two eighth notes belong in the same beat (in the same way that grouping letters together makes it easier for readers to quickly recognize that they belong in the same word).
+</para><note id="eip-918">For most musicians, eighth rests and single eighth notes are a bit trickier to master than the two-eighths-in-a-row rhythm, so those will be introduced later.</note>
+
+<figure id="eighth-notes-figure"><title>Eighth Notes</title><media id="eighth-notes" alt="Eighth notes both stem-up and stem-down, both with flags and with beams.">
+    <image mime-type="image/png" src="../../media/eighth-notes.png"/>
+  </media>
+<caption>An eighth note can look like a quarter note with one <term>flag</term> attached to the stem, or it can look like an eighth note that is attached to other notes with one <term>beam</term>.
+  </caption></figure>
+
+<list id="eip-66" list-type="enumerated" number-style="arabic"><title>Activity 4: Practice reading eighth notes</title><item>Using a favorite, comfortable method for setting the beat and making sounds, try to read and play the <link target-id="activity4-4-figure">example rhythms</link>. </item>
+<item>Practice each example more than once. As in previous lessons and activities, if you can slightly emphasize notes at the beginning of each measure, and also make the note on the beat slightly stronger than the note between beats, it will help both you and listeners to feel the meter of the piece.</item>
+<item>Listen to the sound files to check whether you have played them correctly, or try playing along with the sound file.</item>
+<item>If you are practicing with a group, exchange papers and practice reading each other's written rhythms.</item></list>
+
+<figure id="activity4-4-figure"><title>Example Rhythms</title><media id="activity4-4" alt="4 lines of mixed quarter notes, quarter rests, and pairs of eighth notes, in 2/4 and 3/4 meter.">
+    <image mime-type="image/png" src="../../media/activity4-4.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm4-4A-audio"><media id="rhythm4-4A" alt="Line A played on crash cymbal."> <audio mime-type="audio/mp3" src="rhythm4-4A-2.mp3"/> </media>  <caption>Activity 4 Line A</caption></figure><figure id="rhythm4-4B-audio"><media id="rhythm4-4B" alt="Line B played on crash cymbal."> <audio mime-type="audio/mp3" src="rhythm4-4B.mp3"/> </media>  <caption>Activity 4 Line B</caption></figure><figure id="rhythm4-4C-audio"><media id="rhythm4-4C" alt="Line C played on crash cymbal."> <audio mime-type="audio/mp3" src="rhythm4-4C.mp3"/> </media>  <caption>Activity 4 Line C</caption></figure><figure id="rhythm4-4D-audio"><media id="rhythm4-4D" alt="Line D played on crash cymbal."> <audio mime-type="audio/mp3" src="rhythm4-4D.mp3"/> </media>  <caption>Activity 4 Line D</caption></figure><list id="eip-85" list-type="enumerated" number-style="arabic"><title>Activity 5: Practice writing eighth notes</title><item>Use your preferred <link document="m62677" target-id="eip-782">methods to write down music</link>, set up a steady beat, and play what you have written.</item>
+<item>Try writing down your own examples that include a mix of quarter, half and eighth notes. Be careful not to write anything that is too complicated for you to play well. If needed, use the examples above as templates and make minor changes to create new examples.</item>
+<item>Try playing what you have written. Feel free to make changes as needed to create rhythms that you like and can play.</item>
+<item>As you did with the <link document="m62677" target-id="eip-782">writing activity in Lesson 2</link>, practice and check until you are certain that you are playing your written rhythms correctly.</item></list></section><list id="eip-386"><title>Suggestions for practice with "real music":</title><item>When you listen to favorite pieces of music, tap your foot to the beat and try to notice all of the things that happen “in between” foot taps. This may be easier with music that has a relatively slow beat.</item>
+<item>If you have any written music for your instrument that only contains quarter and half notes and rests, and pairs of eighth notes connected by a beam, see whether you can play it by reading the music.</item>
+<item>If you are singing in a choir with a conductor and with written music, start noticing the eighth notes in the music.</item></list>
+
+<figure id="eighths-audio-w"><media id="eighths-w" alt="Four preparatory beats, then 8 beats of eighth notes with clave sound."> <audio mime-type="audio/x-wav" src="eighths.wav"/> </media>  <caption>The beat is divided into two notes of equal length.</caption></figure>
+
+<figure id="rhythm4-4A-audio-w"><media id="rhythm4-4A-w" alt="Line A played on crash cymbal."> <audio mime-type="audio/x-wav" src="rhythm4-4A.wav"/> </media>  <caption>Line A</caption></figure>
+
+<figure id="rhythm4-4B-audio-w"><media id="rhythm4-4B-w" alt="Line B played on crash cymbal."> <audio mime-type="audio/x-wav" src="rhythm4-4B.wav"/> </media>  <caption>Line B</caption></figure>
+
+<figure id="rhythm4-4C-audio-w"><media id="rhythm4-4C-w" alt="Line C played on crash cymbal."> <audio mime-type="audio/x-wav" src="rhythm4-4C.wav"/> </media>  <caption>Line C</caption></figure>
+
+<figure id="rhythm4-4D-audio-w"><media id="rhythm4-4D-w" alt="Line D played on crash cymbal."> <audio mime-type="audio/x-wav" src="rhythm4-4D.wav"/> </media>  <caption>Line D</caption></figure>
+
+</content>
+
+</document>

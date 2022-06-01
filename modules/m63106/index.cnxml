@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Reading Rhythm 7: Dividing Beats into Thirds</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63106</md:content-id>
+  <md:title>Reading Rhythm 7: Dividing Beats into Thirds</md:title>
+  <md:abstract>Although most common practice music divides beats into successive halves, some meters divide beats into thirds instead. Sometimes this division is written explicitly as a compound meter; but in some genres and styles it is implicit in the performance style.</md:abstract>
+  <md:uuid>06e6cde2-eaab-4ca9-a853-3363ae7e402b</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-825">This lesson is part of <link document="col12057">Reading Rhythm</link>, a <link document="m62540">learning by doing</link> course intended to help you learn and practice the rhythm aspect of common notation. The pitch aspect of common notation is not covered in this course, so it can be used with any instrument, including voice, or with no instrument at all (using, for example, hand claps instead). This is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="eip-202">The basic common-notation approach to note lengths limits rhythms to divisions that are always halves or doubles of each other. <link document="m62711">Lesson 5</link> introduced tied notes, which are one standard way around this limitation. Another way is to divide every beat into something other than equal halves. By far the most common division involves dividing each beat into thirds instead of halves.</para><note id="eip-780" type="tip">Dividing beats into anything other than halves may come more or less naturally to you, depending on how often you listen to music that does this. If you almost always listen to music that is strongly duple at every level (for example, most rock, and pop genres), you may find this lesson to be unusually difficult and frustrating. If that is the case, you may want to set it aside when you become frustrated. Go on to lessons 7 and 8 while continuing to work periodically on this challenge. You may find it helpful to listen periodically to jazz, blues, 6/8 marches, and other music that “lilts” or “swings” with a triple rather than a duple division.</note><section id="eip-843"><title>Hearing Triplet Divisions</title><para id="eip-108">There are many styles and genres of music in which the feeling of not-equal-halves is treated informally, as a <term>swing</term> or <term>shuffle</term> that is basic to the underlying rhythm. Various jazz and blues styles are the most well-known examples of this. The music is often written as if each beat is divided into two, but in these styles, the division is actually <emphasis>not equal</emphasis>. How unequal depends on the specific style. In some fast jazz styles, for example, one part of the beat simply feels slightly longer and heavier than the other. In many styles, however, the “swing” feel essentially divides the beat into thirds. When a beat contains two notes, the first note is twice as long as the second. In other words, the first note gets two thirds of the beat, and the second gets one third of the beat. In some genres, an unequal division is so common that pieces that should be played with equal divisions of the beat are explicitly labeled as <term>straight</term>.
+</para>
+
+<example id="example1">
+
+<figure id="straight-swing-figure">
+  <title>"Straight" vs. "Swing"</title>
+  <media id="straight-swing" alt="[choose an example, and include audio!]">
+    <image mime-type="image/png" src="../../media/straight-swing.png"/>
+  </media>
+  <caption>
+Some music is written as if there are two equal divisions in every beat, but is played with a “swing” or “shuffle” that makes the divisions unequal. In some genres, this is so common that it is not even noted. In others, there may be a notation to “swing” the rhythm. If there is any doubt that a piece should be played with equal divisions, it can be notated as “straight.”
+  </caption>
+</figure>
+
+<figure id="straight-audio"><media id="straight" alt="Played on a ride cymbal"> <audio mime-type="audio/mp3" src="straight.mp3"/> </media>  <caption>This is the rhythm in <link target-id="straight-swing-figure"/> played "straight," with even eighth notes. (Audio examples in the text are provided <link document="m62590" target-id="eip-48">as mp3 files</link>. If you prefer wav files, those are provided <link target-id="straight-audio-w">below</link>.)</caption></figure><figure id="swing-audio"> <media id="swing" alt="Played on a ride cymbal"> <audio mime-type="audio/mp3" src="swing.mp3"/> </media> <caption>This is the rhythm in <link target-id="straight-swing-figure"/> played "swing," with uneven eighth notes.</caption> </figure> 
+
+</example>
+
+<list id="eip-633" list-type="enumerated" number-style="arabic"><title>Activity 1: Hear the difference between duplet and triplet divisions</title><item>Find recordings of some of the pieces in the <link target-id="problem1">list below</link>.</item>
+<item>For each recording that you find, listen to the piece until you have found the <emphasis>strongest pulse</emphasis> (usually the one you would clap your hands or tap your foot to). Call this strong pulse the beat (although in a few of the examples this strong pulse is technically not the beat, according to the written meter).</item>
+<item>Decide whether the basic beat is divided into even, "straight" halves, or divided into swing or thirds.</item>
+<item>It may help to move or make sounds with the beat (for example, clap, tap your foot, or march in place to the beat). It may also help to make smaller movements or sounds with the faster divisions (for example chant or sing syllables, or tap one finger). It may also help to turn the music off and sing or hum the piece slowly enough that you can count to see whether it has a basic two or three division.</item>
+<item>Write down your answers. Make a good guess for several different pieces before checking the hidden answers.</item>
+<item>If all or most of your answers were correct, go on to the next activity. If not, try again with a different set of pieces.</item></list><exercise id="eip-750"><problem id="eip-746">
+  <list id="problem1" list-type="enumerated" number-style="arabic"><item>Strauss' "Roses from the South" waltz</item>
+<item>Strauss' "Trisch Trasch" polka</item>
+<item>"Three Blind Mice" (nursery song)</item>
+<item>"Row, Row, Row Your Boat" (nursery song)</item>
+<item>"Old MacDonald" (nursery song)</item>
+<item>Beatles' "Ob La Di, Ob La Da"</item>
+<item>Beatles' "Norwegian Wood"</item>
+<item>the "Sailor's Hornpipe" (traditional shanty)</item>
+<item>the "Drunken Sailor" (traditional shanty)</item>
+<item>"Blow the Man Down" (traditional shanty)</item>
+<item>"When the Levee Breaks" as performed by Alison Krauss</item>
+<item>"When the Levee Breaks" as played by Led Zeppelin</item>
+<item>"You Shook Me" as played by Led Zeppelin</item>
+<item>"You Shook Me" as played by AC/DC</item>
+<item>Beethoven's "Moonlight Sonata"</item>
+<item>Pachelbel's "Canon in D"</item>
+<item>Bach's "Little" Fugue in G minor</item>
+<item>"What a Wonderful World" (jazz tune)</item>
+<item>"The Girl From Ipanema" (jazz tune)</item>
+<item>"In the Mood" (jazz tune)</item></list></problem>
+
+<solution id="eip-850">
+  <list id="solution1" list-type="enumerated" number-style="arabic"><item>thirds /swing</item>
+<item>straight halves</item>
+<item>thirds /swing</item>
+<item>thirds /swing</item>
+<item>straight halves</item>
+<item>straight halves</item>
+<item>thirds /swing</item>
+<item>straight halves</item>
+<item>straight halves</item>
+<item>thirds /swing</item>
+<item>thirds /swing</item>
+<item>straight halves</item>
+<item>thirds /swing</item>
+<item>straight halves</item>
+<item>thirds /swing</item>
+<item>straight halves</item>
+<item>straight halves</item>
+<item>thirds /swing</item>
+<item>straight halves</item>
+<item>thirds /swing</item></list></solution>
+</exercise>
+
+<list id="eip-834" list-type="enumerated" number-style="arabic"><title>Activity 2: Play pieces with beats divided into thirds</title><item>Choose a favorite <link document="m62591" target-id="eip-405">method of keeping a steady beat</link> and set up a beat with a slow pace.</item>
+<item>Choose a favorite <link document="m62591" target-id="eip-494">method of practicing rhythms</link> that makes it easy for you to play short, fast notes while emphasizing the notes that are on the beat, as you did in various exercises in <link document="m62708">Lesson 4</link> and <link document="m63105">Lesson 6</link>.</item>
+<item>Play along with the beat, playing three evenly-spaced notes during every beat (in other words, one note on the beat, and two notes during the beat, all of equal length). Emphasize the note that falls on the beat, creating  a very fast ONE-two-three-ONE-two-three-ONE-two-three feeling. </item>
+<item>Listen carefully to check whether the notes are steady and evenly spaced. If so, try a faster pace. If not, try a slightly slower pace. Challenge yourself to see how fast you can play the triple divisions evenly.</item>
+<item>Once you are comfortable dividing the beats into three, practice dividing some of the beats, while playing only one note (on the beat) in other beats. (Listen to <link target-id="rhythm7-exampleA-audio">Example A</link> if needed.)</item>
+<item>Once you are comfortable with the above challenges, see whether you can play notes on only the first and third divisions of the beat. This divides each beat into two-thirds-plus-one-third, the basic division of many jazz and blues styles. (Listen to <link target-id="rhythm7-exampleB-audio">Example B</link> if needed.)</item>
+<item>As an extra challenge, see whether you can mix beats in which you play on all three thirds, as in step 5, and the first and third subdivisions only, as in step 6.
+</item></list>
+
+<figure id="rhythm7-exampleA-audio"> <media id="rhythm7-exampleA" alt="Mixed quarter notes and triplets played on claves"> <audio mime-type="audio/mp3" src="rhythm7-exampleA.mp3"/> </media> <caption>Activity 2 Example A</caption> </figure>  
+
+<figure id="rhythm7-exampleB-audio"> <media id="rhythm7-exampleB" alt="Mixed quarter notes and basic swing rhythm played on claves"> <audio mime-type="audio/mp3" src="rhythm7-exampleB.mp3"/> </media> <caption>Activity 2 Example B</caption> </figure> 
+
+</section>
+<section id="eip-840"><title>Reading Triple Divisions</title>
+
+<para id="eip-950">Some music formally divides the beat into equal thirds rather than equal halves, in the written <link document="m62677" target-id="eip-114">meter</link> of the music. For example, there are many pieces that have three eighth notes in every measure and are played very fast, so that each (3/8) measure feels like a single beat divided into thirds. Another very common meter (6/8) has six eighth notes in every measure, also played very fast. In 6/8 time, each measure has two beats, with each beat divided into equal thirds. Because these meters with triple divisions cannot be written as one-note-gets-one-beat, they are called <term>compound</term> meters. Meters in which one note (or any type) gets one beat are called <term>simple</term> meters. Compound and simple meters can be distinguished simply by listening: does a beat sound as if it is divided into equal halves or not?</para><para id="eip-266">Notice that six eighth notes can also be grouped into three beats, if each beat is divided into halves. How do you know which is wanted? The <link document="m62677" target-id="eip-415">time signature</link> is the clearest signal. For example, if six eighth notes should be grouped into three (simple) beats, the time signature will be 3/4. If they should be grouped into two (compound) beats, the time signature will be 6/8. In order to make the music easier to read, the divisions will also be grouped together visually. For example, when eighth notes are connected with beams, they will be grouped either by twos or by threes, depending on the meter / time signature (see <link target-id="six-eight-time-figure"/>). This is a specific example of a general rule for writing common notation: make it easy for the player to “see” each beat (as a specific group of notes or rests) when reading quickly through the music.</para><figure id="six-eight-time-figure"><title>6/8 time vs. 3/4 time</title><media id="six-eight-time" alt="Two staff lines featuring quarter and eighth notes grouped appropriately, one in 3/4 time, and the other 6/8 time.">
+    <image mime-type="image/png" src="../../media/six-eight-time.png"/>
+  </media>
+  
+<caption>When a measure consists of 3 quarter-note beats (6 eighth notes total), the time signature is  3/4 and eighth notes are grouped by twos. When a measure consists of two beats with three eighth notes each (also 6 eighth notes total), the time signature is 6/8 and the eighth notes are clearly grouped by threes.
+  </caption></figure><list id="eip-184" list-type="enumerated" number-style="arabic"><title>Activity 3: Practice reading compund meters</title><item>Using any favorite method of keeping the beat and practicing rhythms, try to read and play the examples in <link target-id="activity6-3-figure"/>. </item>
+<item>Practice each example more than once.</item>
+<item>Listen to the sound files to check whether you have played them correctly, or try playing along with the sound file.</item></list><figure id="activity6-3-figure"><title>Practice Examples</title><media id="activity6-3" alt="3 lines of mixed quarter and eighth notes and rests, two in 6/8 time and one in 3/8 time.">
+    <image mime-type="image/png" src="../../media/activity6-3.png"/>
+  </media>
+</figure><note id="eip-239">The audio files for the compound meters give you six preparation beats.</note>
+
+<figure id="rhythm7-3A-audio"> <media id="rhythm7-3A" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm7-3A.mp3"/> </media> <caption>Activity 3 Line A</caption> </figure>
+
+<figure id="rhythm7-3B-audio"> <media id="rhythm7-3B" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm7-3B.mp3"/> </media> <caption>Activity 3 Line B</caption> </figure>
+
+<figure id="rhythm7-3C-audio"> <media id="rhythm7-3C" alt="Played on clave"> <audio mime-type="audio/mp3" src="rhythm7-3C.mp3"/> </media> <caption>Activity 3 Line C</caption> </figure>
+
+<list id="eip-0" list-type="enumerated" number-style="arabic"><title>Activity 4: Practice writing compound meters</title><item>Use any favorite <link document="m62677" target-id="eip-782">methods of writing down music</link>, setting up a steady beat, and playing what you have written.</item>
+<item>Try writing down your own lines that include triple divisions of the beat, similar to the examples above. You can write either a simple meter to be performed as "swing," or a formal compound meter (3/8 or 6/8), whichever you prefer. Be careful not to write anything that is too complicated for you to play well. Most people find it unusually challenging to play the eighth-followed-by-quarter rhythm (as opposed to the standard quarter-followed-by-eighth swing rhythm), so you may want to avoid that rhythm for now. If needed, use the examples above as templates and make minor changes to create new examples.</item>
+<item>Try playing what you have written. Feel free to make changes as needed to create rhythms that you like and can play.</item>
+<item>As you did with the <link document="m62677" target-id="eip-782">writing activity in Lesson 2</link>, practice and check until you are certain that you are playing your written rhythms correctly.</item></list><para id="eip-223">Sometimes music that is written in a simple meter will “borrow” <term>triplets</term> from a compound meter, or a compound meter will "borrow" <term>duplets</term>. Rarely, an usual division, such as five or seven equal notes per beat, is used. Borrowed <term>tuplets</term> of any type are always marked in the music, for clarity. It can be difficult, even for many experienced musicians, to play borrowed meters correctly. Switch back and forth between duple and triple meters in the middle of a piece is an advanced challenge, so there are no activities in this course for practicing borrowed meters. When you first find them in the music you are reading, you may find it useful to locate a professional recording of the piece and practice the rhythm along with the recording.</para><figure id="triplets-figure"><title>Tuplets</title><media id="triplets" alt="Two staff lines featuring eighth note rhythms, one in 4/4 time with borrowed triplet rhythms, one in 6/8 time with a borrowed duple.">
+    <image mime-type="image/png" src="../../media/triplets.png"/>
+  </media>
+  
+<caption>Any simple meter can "borrow" a "triplet" rhythm, and any compound meter can "borrow" a "duplet" rhythm. The resulting "tuplet" is always marked in the music, so that musicians reading it are adequately warned of the unexpected division.
+  </caption></figure></section><list id="eip-237"><title>Suggestions for practice with "real music":</title><item>When you listen to favorite pieces of music, listen for swing beats and compound meters.</item>
+<item>If you have any written music for your instrument in a compound meter, try playing it.
+</item>
+<item>If you have any written music for your instrument that calls for a jazz style, see whether you can play it with an appropriate swing. You can even try swinging pieces that are normally performed “straight”, just for fun and practice. If you are already used to playing or singing some pieces with a swing, try challenging yourself to perform them "straight."</item>
+<item>If you are singing in a choir with a conductor and with written music, start noticing whether any of your music is in a compound meter. Also start noticing whether any of the pieces are performed with a swing. Is the music written with a triple meter, or is the swing simply stated as a tempo marking, or implied because the genre is jazz, gospel, or blues? Does the conductor point out and rehearse the swing aspect of the rhythm, or does the choir adopt it naturally?</item></list>
+
+<figure id="straight-audio-w"> <media id="straight-w" alt="Played on a ride cymbal"> <audio mime-type="audio/x-wav" src="straight.wav"/> </media> <caption>This is the rhythm in <link target-id="straight-swing-figure"/> played "straight," with even eighth notes.</caption> </figure>
+
+<figure id="swing-audio-w"> <media id="swing-w" alt="Played on a ride cymbal"> <audio mime-type="audio/x-wav" src="swing.wav"/> </media> <caption>This is the rhythm in <link target-id="straight-swing-figure"/> played "swing," with uneven eighth notes.</caption> </figure>
+
+<figure id="rhythm7-exampleA-audio-w"> <media id="rhythm7-exampleA-w" alt="Mixed quarter notes and triplets played on claves"> <audio mime-type="audio/x-wav" src="rhythm7-exampleA.wav"/> </media> <caption>Activity 2 Example A</caption> </figure>
+
+<figure id="rhythm7-exampleB-audio-w"> <media id="rhythm7-exampleB-w" alt="Mixed quarter notes and basic swing rhythm played on claves"> <audio mime-type="audio/x-wav" src="rhythm7-exampleB.wav"/> </media> <caption>Activity 2 Example B</caption> </figure>
+
+<figure id="rhythm7-3A-audio-w"> <media id="rhythm7-3A-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm7-3A.wav"/> </media> <caption>Activity 3 Line A</caption> </figure>
+
+<figure id="rhythm7-3B-audio-w"> <media id="rhythm7-3B-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm7-3B.wav"/> </media> <caption>Activity 3 Line B</caption> </figure>
+
+<figure id="rhythm7-3C-audio-w"> <media id="rhythm7-3C-w" alt="Played on clave"> <audio mime-type="audio/x-wav" src="rhythm7-3C.wav"/> </media> <caption>Activity 3 Line C</caption> </figure>
+
+</content>
+
+</document>

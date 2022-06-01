@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Reading Rhythm 3: Half Notes and Half Rests</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62678</md:content-id>
+  <md:title>Reading Rhythm 3: Half Notes and Half Rests</md:title>
+  <md:abstract>In any meter, a half note or half rest will take twice as much time as a quarter note or quarter rest. In the most common meters, the half note takes two beats.</md:abstract>
+  <md:uuid>c8e3d213-a816-4b7c-a9d7-0132ab0406ee</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-817">This lesson is part of <link document="col12057">Reading Rhythm</link>, a <link document="m62540">learning by doing</link> course intended to help you learn and practice the rhythm aspect of common notation. The pitch aspect of common notation is not covered in this course, so it can be used with any instrument, including voice, or with no instrument at all (using, for example, hand claps instead). This is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note>
+
+<para id="eip-367">In music as in mathematics, one half equals two quarters. In other words, whenever half notes and quarter notes are part of the same piece of music, a <term>half note</term> takes a length of time that is twice as long as a quarter note. In any meter, a half note lasts twice as long as a quarter note, and a <term>half rest</term> is a silence that lasts as long as a half note. As demonstrated in previous lessons, a quarter note lasts for one beat in the most common meters, so in these meters, a half note (or half rest) takes up two beats.</para>
+
+<section id="eip-863"><title>What do half notes and rests sound like?</title>
+
+<para id="eip-46">
+What this actually sounds like depends on how the notes are being performed. You can divide most of the sounds in common-practice music into three categories: 
+</para>
+
+<list id="eip-872"><item><emphasis>Notes that sustain</emphasis>, or stay the same loudness while they are being played. Notes on a flute, trumpet, violin, or organ fall into this category 
+<figure id="sustain-audio"><media id="sustain" alt="Four beats each of four musical sounds that do not diminish"> <audio mime-type="audio/mp3" src="sustain.mp3"/> </media> <caption>(Audio examples in text are provided <link document="m62590" target-id="eip-48">as mp3 files</link>. If you prefer wav files, those are provided <link target-id="sustain-audio-w">below</link>.)</caption></figure></item>
+<item><emphasis>Notes that die away gradually</emphasis> while they are being played. Notes on a piano, guitar, or chimes fall into this category.
+<figure id="dim-slowly-audio"> <media id="dim-slowly" alt="Four beats each of four different musical sounds that die away slowly"> <audio mime-type="audio/mp3" src="dim-slowly.mp3"/> </media></figure> 
+</item>
+<item><emphasis>Notes that die away quickly</emphasis> so that they essentially are only heard as a single pulse of sound. Hand claps, drum beats, and wood-block notes fall into this category.
+<figure id="dim-quickly-audio"> <media id="dim-quickly" alt="Four beats each of four different musical sounds that die away quickly"> <audio mime-type="audio/mp3" src="dim-quickly.mp3"/> </media> </figure> 
+</item></list>
+
+<para id="eip-880">With notes that die away quickly, a half note will sound the same as a quarter note followed by a quarter rest. In most types of music, this is reflected in the written music; drum beats, for example, tend not to be written as if they last more than one beat. With notes that sustain or die away gradually, the longer note directs the music to deliberately sustain the sound. For example, when a half note is used rather than a quarter-note-quarter-rest, the musician should try to sustain the note through both beats, so that there is no “rest,” or silence, during those two beats.</para>
+
+<example id="example-1"><title>Half notes vs. Quarter Notes</title>
+
+<figure id="half-vs-quarter-figure"><media id="half-vs-quarter" alt="On a staff, four quarter notes in a row, then four half notes, then four quarter notes alternating with quarter rests">
+    <image mime-type="image/png" src="../../media/half-vs-quarter.png"/>
+  </media> 
+<caption>Listen to this line played by (1) an instrument that sustain sounds, (2) an instrument with sounds that diminish slowly, and (3) an instrument with sounds that diminish very quickly.
+  </caption></figure>
+
+<figure id="quarter-half-flute-audio"> <media id="quarter-half-flute" alt="quarter notes and half notes played with a flute sound"> <audio mime-type="audio/mp3" src="quarter-half-flute.mp3"/> </media> <caption>With sustained notes, it is easy to hear the difference between half and quarter notes.</caption> </figure> 
+
+<figure id="quarter-half-chime-audio"> <media id="quarter-half-chime" alt="quarter notes and half notes played with a chime sound"> <audio mime-type="audio/mp3" src="quarter-half-chime.mp3"/> </media> <caption>With notes that diminish slowly, it is still relatively easy to hear the difference between half and quarter notes.</caption> </figure>
+
+<figure id="quarter-half-drum-audio"> <media id="quarter-half-drum" alt="quarter notes and half notes played with a drum sound"> <audio mime-type="audio/mp3" src="quarter-half-drum.mp3"/> </media> <caption>With notes that diminish quickly, a half note sounds exactly the same as a quarter note followed by a quarter rest.</caption> </figure>
+
+</example>
+
+<list id="eip-19" list-type="enumerated" number-style="arabic"><title>Activity 1: Half notes are held as long as two quarter notes</title><item>Experiment with your favorite <link document="m62591" target-id="eip-494">method of practicing rhythms</link>. Find at least one that you can use to make sustained notes. Possibilities include singing or chanting open-ended syllables, playing a wind or stringed instrument, keyboard instrument such as piano or organ, or sustained-sound percussion such as chimes</item>
+<item>Use any favorite <link document="m62591" target-id="eip-405">method of keeping a steady beat</link>.</item>
+<item>Practice performing half notes by starting a note on every other beat, and sustaining the note for the two beats.</item>
+<item>When you can do step 3, switch to the alternating quarter-note-quarter-rest pattern that you learned in <link document="m62677">Lesson 2</link>. Do this by deliberately stopping the note so that there is silence during the second beat.</item>
+<item>Switch back and forth between the patterns in step 3 and step 4, until you are comfortable making a deliberate difference between the sound of a half note and the sound of a quarter note followed by a quarter rest.</item>
+<item>If you are working with a group or partner, you can turn this into a game, with a “leader” indicating, right before the downbeat, whether to perform a half note or a quarter-note-quarter-rest, and the “player(s)” having to respond quickly, in time with the beat, with the correct sound.</item></list><list id="eip-146" list-type="enumerated" number-style="arabic"><title>Activity 2: Mixing half and quarter notes</title><item>Use your favorite method from Activity 1 of making a sustained note, and any favorite method of keeping a steady beat.</item>
+<item>Create a triple-<link document="m62677" target-id="eip-114">meter</link> feeling by alternating half notes and quarter notes. (A half note plus a quarter note equals three beats, so this will automatically create a triple-meter feeling.) To begin with, use the same syllable or pitch.</item>
+<item>For a challenge, repeat step 2 using different pitches or syllables for the quarter notes than for the half notes.</item>
+<item>Now create a quadruple-meter feel by playing/singing a pattern of half-note/quarter-note/quarter-note. </item>
+<item>For a challenge, repeat step 4, but turn one of the quarter notes into a quarter rest, either half-note/quarter-note/quarter-rest or half-note/quarter-rest/quarter-note.</item>
+<item>Challenge yourself to make up and practice other patterns based on various combinations of quarter and half notes and rests.</item>
+</list>
+
+</section>
+<section id="eip-899"><title>What do half notes and half rests look like?</title>
+
+<para id="eip-643">A half note looks just like a quarter note except that the head is not darkened. Again, the rhythm is exactly the same, regardless of whether the stem is pointing up or down. A half rest looks like a small block sitting on the staff line. 
+</para>
+
+<figure id="half-notes-figure"><title>Half notes and rests</title><media id="half-notes" alt="Half notes (both stem up and stem down) and a half rest, on the staff.">
+    <image mime-type="image/png" src="../../media/half-notes.png"/>
+  </media>
+<caption>A half note looks just like a quarter note except that the head is not darkened. The stem may point up or down. A half rest looks like a small block resting on top of the middle line of the staff.
+  </caption></figure>
+
+<list id="eip-268" list-type="enumerated" number-style="arabic"><title>Activity 3: Reading half and quarter notes and rests</title><item>Using favorite methods for setting the beat and making sustained sounds, try to read and play the examples in <link target-id="activity3-3-figure"/>. </item>
+<item>Practice each example more than once. As in <link document="m62677">Lesson 2</link>, try to help create the feeling of meter by playing the first note of each measure just a bit more strongly than the others.</item>
+<item>Listen to the sound files to check whether you have played them correctly, or try playing along with the sound file.</item>
+<item>For a challenge, try reading the examples using a type of note that dies away, such as a clap or drum hit. Notice that in this case, a half note sounds the same as a quarter note followed by a quarter rest.</item></list>
+
+<note id="eip-55" type="tip">On a drum staff, each line or space usually represents a specific type of instrument. The exercises give you practice in reading notes in the different lines and spaces. If you are practicing on a pitched instrument, feel free to choose any note or chord you would like to use for each exercise. A crash cymbal is used in the sound files for sustained notes, so that there will be no tuning or harmony problems if you choose to play along with them.</note>
+
+<figure id="activity3-3-figure">
+  <media id="activity3-3" alt="Five lines of mixed quarter and half notes and rests">
+    <image mime-type="image/png" src="../../media/activity3-3.png"/>
+  </media>
+</figure>
+
+<figure id="rhythm3-3A-audio"> <media id="rhythm3-3A" alt="Line A played on crash cymbal"> <audio mime-type="audio/mp3" src="rhythm3-3A.mp3"/> </media> <caption>Line A</caption> </figure> 
+
+<figure id="rhythm3-3B-audio"> <media id="rhythm3-3B" alt="Line B played on crash cymbal"> <audio mime-type="audio/mp3" src="rhythm3-3B.mp3"/> </media> <caption>Line B</caption> </figure> 
+
+<figure id="rhythm3-3C-audio"> <media id="rhythm3-3C" alt="Line C played on crash cymbal"> <audio mime-type="audio/mp3" src="rhythm3-3C.mp3"/> </media> <caption>Line C</caption> </figure> 
+
+<figure id="rhythm3-3D-audio"><media id="rhythm3-3D" alt="Line D played on crash cymbal"> <audio mime-type="audio/mp3" src="rhythm3-3D.mp3"/> </media>  <caption>Line D (Remember, there are only 3 preparatory beats for 3/4 examples!)</caption></figure>
+
+<figure id="rhythm3-3E-audio"> <media id="rhythm3-3E" alt="Line E"> <audio mime-type="audio/mp3" src="rhythm3-3E.mp3"/> </media> <caption>Line E</caption> </figure> 
+
+<list id="eip-467" list-type="enumerated" number-style="arabic"><title>Activity 4: Writing half and quarter notes and rests</title><item>Use your preferred methods of setting up a steady beat, practicing rhythms, and <link document="m62677" target-id="eip-782">writing down music</link>.</item>
+<item>Try writing down your own examples of triple and quadruple meter, similar to the ones in Activity 5. You may have noticed that those examples avoided putting a rest on the first beat of the measure. Rests on the first beat should be used very sparingly, because they weaken the feeling of the meter.</item>
+<item>Try playing what you have written. Feel free to make changes as needed to create rhythms that you like.</item>
+<item>As you did with the <link document="m62677" target-id="eip-782">writing activity in Lesson 2</link>, practice and check until you are certain that you are playing your written rhythms correctly.</item></list></section>
+
+<list id="eip-276"><title>Suggestions for practice with "real music":</title><item>When you listen to favorite pieces of music, tap your foot to the beat and listen to see whether you can find beats when an instrument is either silent or holds a note begun on an earlier beat.</item>
+<item>If you have any written music for your instrument that only contains quarter and half notes and rests, see whether you can play it by reading the music. (Avoid any music in which a note has a dot following it, until "dotted rhythms" are introduced in <link document="m63120">Lesson 8</link>.)</item>
+<item>If you are singing in a choir with a conductor and with written music, start noticing the half notes and rests in the music and trying to hold them for two of the conductor's beats.</item></list>
+
+<figure id="sustain-audio-w"> <media id="sustain-w" alt="Four beats each of four musical sounds that do not diminish"> <audio mime-type="audio/x-wav" src="sustain.wav"/> </media> </figure> 
+
+<figure id="dim-slowly-audio-w"> <media id="dim-slowly-w" alt="Four beats each of four different musical sounds that die away slowly"> <audio mime-type="audio/x-wav" src="dim-slowly.wav"/> </media></figure> 
+
+<figure id="dim-quickly-audio-w"> <media id="dim-quickly-w" alt="Four beats each of four different musical sounds that die away quickly"> <audio mime-type="audio/x-wav" src="dim-quickly.wav"/> </media> </figure>
+
+<figure id="quarter-half-flute-audio-w"> <media id="quarter-half-flute-w" alt="quarter notes and half notes played with a flute sound"> <audio mime-type="audio/x-wav" src="quarter-half-flute.wav"/> </media> <caption>With sustained notes, it is easy to hear the difference between half and quarter notes.</caption> </figure> 
+
+<figure id="quarter-half-chime-audio-w"> <media id="quarter-half-chime-w" alt="quarter notes and half notes played with a chime sound"> <audio mime-type="audio/x-wav" src="quarter-half-chime.wav"/> </media> <caption>With notes that diminish slowly, it is still relatively easy to hear the difference between half and quarter notes.</caption> </figure> 
+
+<figure id="quarter-half-drum-audio-w"> <media id="quarter-half-drum-w" alt="quarter notes and half notes played with a drum sound"> <audio mime-type="audio/x-wav" src="quarter-half-drum.wav"/> </media> <caption>With notes that diminish quickly, a half note sounds exactly the same as a quarter note followed by a quarter rest.</caption> </figure> 
+
+<figure id="rhythm3-3A-audio-w"> <media id="rhythm3-3A-w" alt="Line A played on crash cymbal"> <audio mime-type="audio/x-wav" src="rhythm3-3A.wav"/> </media> <caption>Line A</caption> </figure>
+
+<figure id="rhythm3-3B-audio-w"> <media id="rhythm3-3B-w" alt="Line B played on crash cymbal"> <audio mime-type="audio/x-wav" src="rhythm3-3B.wav"/> </media> <caption>Line B</caption> </figure>
+
+<figure id="rhythm3-3C-audio-w"> <media id="rhythm3-3C-w" alt="Line C played on crash cymbal"> <audio mime-type="audio/x-wav" src="rhythm3-3C.wav"/> </media> <caption>Line C</caption> </figure>
+
+<figure id="rhythm3-3D-audio-w"><media id="rhythm3-3D-w" alt="Line D played on crash cymbal"> <audio mime-type="audio/x-wav" src="rhythm3-3D.wav"/> </media>  <caption>Line D (Remember, there are only 3 preparatory beats for 3/4 examples!)</caption></figure>
+
+<figure id="rhythm3-3E-audio-w"> <media id="rhythm3-3E-w" alt="Line E"> <audio mime-type="audio/x-wav" src="rhythm3-3E.wav"/> </media> <caption>Line E</caption> </figure>
+
+</content>
+
+</document>

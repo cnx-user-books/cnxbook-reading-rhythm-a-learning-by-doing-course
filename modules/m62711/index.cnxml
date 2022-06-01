@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Reading Rhythm 5: Whole Notes and Tied Notes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62711</md:content-id>
+  <md:title>Reading Rhythm 5: Whole Notes and Tied Notes</md:title>
+  <md:abstract>In the most common meters, whole notes and whole rests each last for four beats. Another common way of indicating a sound that lasts for a long time is to tie shorter notes together.</md:abstract>
+  <md:uuid>90066c1e-d25c-4817-a254-f362c8d994cc</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-424">This lesson is part of <link document="col12057">Reading Rhythm</link>, a <link document="m62540">learning by doing</link> course intended to help you learn and practice the rhythm aspect of common notation. The pitch aspect of common notation is not covered in this course, so it can be used with any instrument, including voice, or with no instrument at all (using, for example, hand claps instead). This is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="eip-778">In previous lessons, the longest notes and rests that you have seen have lasted for two beats. There are several ways to write notes that last even longer than two beats. Two very common ways are whole notes and tied notes.</para>
+
+<section id="eip-730"><title>Whole Notes</title>
+
+<para id="eip-886">In the meters that you have been practicing in this course, a quarter note (or rest) gets one beat and a half note (or rest) gets two beats. Some basic math suggests that when this is the case, a <term>whole note</term> (or rest) must get four beats. The whole note is quite distinctive from the other notes you have learned; it has no stem, and its head is not filled in. The whole rest can be easily confused with the half rest; the whole rest is a small rectangle on the underside of the fourth line, rather than on top of the middle line. Sometimes the quickest way to distinguish them is to remember how many beats are in a measure. For example, if the meter is 2/4, there will never be any four-beat notes or rests. On the other hand, if a 4/4 measure contains nothing but one rest, that rest must be a whole rest.
+</para><note id="eip-950">As explained in <link document="m62678">Lesson 3</link>, when a musical sound naturally dies away very quickly, it is usually not written as a long note. For example, hand claps or drum hits would not be written as whole notes. Instead, when the beginnings of such notes are far apart, they would be written as one-beat notes followed by the appropriate number of rests.</note><figure id="whole-notes-figure"><title>Title</title><media id="whole-notes" alt="Whole note and whole rest in the staff.">
+    <image mime-type="image/png" src="../../media/whole-notes.png"/>
+  </media>
+<caption>A whole rest has an empty head and no stem. A whole rest is a small rectangle on the underside of a staff line (usually the fourth line). Notice that is easy to confuse the whole rest with the half rest, which sits on the top of the staff line rather than on its underside. Practice helps, as does keeping in mind the total size of the measure. (For example, when the meter calls for four quarter notes per measure, a whole rest completely fills a measure; there is no room for anything else. When the meter calls for three quarter notes per measure, whole rests are simply too big to use at all!)
+  </caption></figure>
+
+<list id="eip-991" list-type="enumerated" number-style="arabic"><title>Activity 1: Play whole notes</title><item>Choose any favorite <link document="m62591" target-id="eip-494">method of practicing rhythms</link> in which the <link document="m62678">sound does not die away very quickly</link> (such as playing on a melody instrument or singing a syllable).</item>
+<item>Use a favorite <link document="m62591" target-id="eip-405">method of keeping a steady beat</link>, set up a reasonably fast-paced beat.</item>
+<item>Play along with the beat, starting a new note every fourth beat. In other words, every note lasts for four beats. Notice that this naturally creates a feeling of four-beat measures.</item>
+<item>Once you are comfortable playing whole notes, substitute a whole rest (a four-beat measure of silence) for some of the whole notes. You can add rests randomly or in patterns, such as every-other-measure, or every-third measure.</item>
+<item>Once you are comfortable substituting rests for some of the whole notes, make other substitutions. In some measures play four quarter notes, or two half notes, or some more complex rhythm, instead of one whole note. As you make these substitutions, make sure you are continuing the overall pattern of four-beat measures.</item></list><list id="eip-324" list-type="enumerated" number-style="arabic"><title>Activity 2: Practice reading whole notes</title><item>Using favorite methods for setting the beat and for practicing rhythms with sustained sounds, try to read and play the examples in <link target-id="activity5-2-figure"/>.</item>
+<item>Practice each example more than once.</item>
+<item>Listen to the sound files to check whether you have played them correctly, or try playing along with the sound file.</item></list><figure id="activity5-2-figure"><title>Practice Examples: Whole Notes</title><media id="activity5-2" alt="2 lines of mixed whole, half, quarter, and eighth notes, with some whole, half, and quarter rests mixed in.">
+    <image mime-type="image/png" src="../../media/activity5-2.png"/>
+  </media> 
+</figure>
+
+<figure id="rhythm5-2A-audio"><media id="rhythm5-2A" alt="Description..."> <audio mime-type="audio/mp3" src="rhythm5-2A.mp3"/> </media>  <caption>Activity 2 Line A (Audio examples in the text are provided <link document="m62590" target-id="eip-48">as mp3 files</link>. If you prefer wav files, those are provided <link target-id="rhythm5-2A-audio-w">below</link>.)</caption></figure><figure id="rhythm5-2B-audio"> <media id="rhythm5-2B" alt="Description..."> <audio mime-type="audio/mp3" src="rhythm5-2B.mp3"/> </media> <caption>Activity 2 Line B</caption> </figure>  
+
+<list id="eip-484" list-type="enumerated" number-style="arabic"><title>Activity 3: Practice writing whole notes</title><item>Use your favorite methods of <link document="m62677" target-id="eip-782">writing down music</link>, keeping a steady beat and playing sustained notes.</item>
+<item>Write your own lines that are any mix of eighth, quarter, half, and whole notes and rests, as long as it includes at least one whole note or rest. With so many types of notes and rests to work with, you may be able to write rhythms from your favorite pieces.</item>
+<item>Practice playing each of your examples several times. </item>
+<item>As you did with the <link document="m62677" target-id="eip-782">writing activity in Lesson 2</link>, practice and check until you are certain that you are playing your written rhythms correctly.</item>
+<item>Once you are certain you are playing them correctly, you may want to write other, more complex rhythms that include whole notes and rests. Note that a measure must be at least four quarter notes long. If you use a duple or triple meter that has only two or three quarter notes in a measure, a whole note is simply too big to fit in a measure and so is not allowed!</item></list></section>
+<section id="eip-178"><title>Tied Notes</title>
+
+<para id="eip-933">
+By now you may be wondering: What happens if I want a rhythm that falls in between the standard notes (which are only halves and doubles of each other)? For example, how would a note be written if you wanted it to last for three beats, or a third of a beat, instead of half a beat, or two, or four? You may also be wondering whether you can write a long note that is not confined within one measure. For example, what if you want to play a four-beat note in a meter that has only three beats in a measure?
+</para>
+
+<para id="eip-354">There are several different ways to write rhythms that do not simply fill each measure with some combination of whole, half, quarter, and eighth notes. One particularly flexible way is to tie notes together. Notes that have the same pitch and follow immediately one after the other (on the same line or space of the staff) may be <term>tied</term> together using a curved line. When notes are tied together, they are played as one single sound that begins when the first note begins and lasts as long as all of the notes added together. For example, a half note (two beats) tied to a quarter note (one beat) is played as one note that lasts for three beats. Any number of notes can be tied together; as long as the tied notes are in a row with no interruption, they are all included in the same long sound. For example, three whole notes (four beats each) tied together are played as one sound that lasts for twelve beats.</para><figure id="tied-notes-figure"><title>Tied Notes</title><media id="tied-notes" alt="On a staff, a line that includes a half note tied to a quarter note (a 3-beat sound) and two whole notes tied to each other and to a half note (a 10-beat sound).">
+    <image mime-type="image/png" src="../../media/tied-notes.png"/>
+  </media>
+<caption>A tie is a curved line connecting notes with the same sound. The result is a single sound that begins with the first note and lasts as long as all of the notes added together.
+  </caption></figure>
+
+<note id="eip-164">Curved lines are also used to connect <emphasis>notes that do not sound the same</emphasis> (for example, notes that are on different lines of the staff); such curves are <term>slurs</term>, not ties. Slurs imply that the attack (beginning) of the notes needs to be unusually gentle and smooth. Because they have different pitches, the notes inside a slur do not sound like a single long note; instead, they sound like different notes that are very smoothly attached to each other.</note><para id="eip-466">Rests do not need to be tied. For example, if you want a silence that lasts three beats, you can simply write a half rest followed by a quarter rest. If you need a silence to stretch out for more than one measure, simply fill each measure with the appropriate amount of rests. When a musical sound naturally dies away quickly, such as a clap or a drum hit, it is usually written as a short note followed by rests, not as a tied note.</para>
+
+<list id="eip-809" list-type="enumerated" number-style="arabic"><title>Activity 4: Practice reading tied notes</title><item>Using any favorite method of keeping the beat and practicing rhythms, try to read and play the examples in <link target-id="activity5-4-figure"/>.</item>
+<item>Practice each example more than once, then listen to the sound files to check whether you have played them correctly.</item>
+<item>If needed, try playing along with the sound file.</item></list><figure id="activity5-4-figure"><title>Practice Examples: Tied Notes</title><media id="activity5-4" alt="2 staff lines of mixed whole notes,half notes, quarter notes and rests, and eighth notes, with some ties.">
+    <image mime-type="image/png" src="../../media/activity5-4.png"/>
+  </media> 
+</figure>
+
+<figure id="rhythm5-4A-audio"> <media id="rhythm5-4A" alt="Description..."> <audio mime-type="audio/mp3" src="rhythm5-4A.mp3"/> </media> <caption>Activity 4 Line A</caption> </figure> 
+
+<figure id="rhythm5-4B-audio"> <media id="rhythm5-4B" alt="Description..."> <audio mime-type="audio/mp3" src="rhythm5-4B.mp3"/> </media> <caption>Activity 4 Line B</caption> </figure>
+
+<para id="eip-541">One of the uses of tied notes is to write unusual rhythms. Another is to write rhythms that are less intuitive and more difficult for most people than the basic half-and-double rhythms. Most people find these rhythms to be inherently more challenging than the basic whole-half-quarter-eighth rhythms, so this basic course does not include practice exercises for the many different rhythms that can be created using tied notes. Suggestions for interpreting and practicing more challenging rhythms are included in <link document="m63120">Lesson 8</link>.</para><figure id="challenging-ties-figure">
+  <media id="challenging-ties" alt="Description...">
+    <image mime-type="image/png" src="../../media/challenging-ties.png"/>
+  </media>
+  <caption>
+Tied notes can be used to write unusual, non-intuitive, or very complex rhythms.
+  </caption>
+</figure>
+
+<list id="eip-588" list-type="enumerated" number-style="arabic"><title>Activity 5: Practice writing tied notes</title><item>Use your preferred <link document="m62677" target-id="eip-782">methods of writing down music</link>, setting up a steady beat, and practicing what you have written.</item>
+<item>Try writing down your own lines that include tied notes, similar to the examples above. Be careful not to write anything that is too complicated for you to play well. Note that one of the uses of tied notes is to write unusual rhythms, so you may find that some of the rhythms you write are quite challenging to play correctly. If needed, use the examples above as templates and make minor changes to create new examples.</item>
+<item>Try playing what you have written. Feel free to make changes as needed to create rhythms that you like and can play.</item>
+<item>Use the same methods as in previous writing activities to practice and check until you are certain that you are playing your written rhythms correctly.</item></list>
+
+</section><list id="eip-195"><title>Suggestions for practice with "real music":</title><item>When you listen to favorite pieces of music, listen for notes that are held for a long time; how many beats do they last? Listen for an instrument that plays only occasionally, and see whether you can determine how many beats of rest the player must count, in  between playing. Listen for rhythms that sound like the tied rhythms you practiced in the activities above.</item>
+<item>If you have any written music for your instrument that includes tied notes, see whether you can play it by reading the music.</item>
+<item>If you are singing in a choir with a conductor and with written music, start noticing the whole notes and tied notes in the music.</item></list>
+
+<figure id="rhythm5-2A-audio-w"> <media id="rhythm5-2A-w" alt="Description..."> <audio mime-type="audio/x-wav" src="rhythm5-2A.wav"/> </media> <caption>Activity 2 Line A</caption> </figure>
+
+<figure id="rhythm5-2B-audio-w"> <media id="rhythm5-2B-w" alt="Description..."> <audio mime-type="audio/x-wav" src="rhythm5-2B.wav"/> </media> <caption>Activity 2 Line B</caption> </figure>
+
+<figure id="rhythm5-4A-audio-w"> <media id="rhythm5-4A-w" alt="Description..."> <audio mime-type="audio/x-wav" src="rhythm5-4A.wav"/> </media> <caption>Activity 4 Line A</caption> </figure>
+
+<figure id="rhythm5-4B-audio-w"> <media id="rhythm5-4B-w" alt="Description..."> <audio mime-type="audio/x-wav" src="rhythm5-4B.wav"/> </media> <caption>Activity 4 Line B</caption> </figure>
+
+</content>
+
+</document>
